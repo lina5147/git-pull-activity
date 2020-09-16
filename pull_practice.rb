@@ -18,8 +18,8 @@ end
 
 # Taks 3: Merging Changes
 # One partner should uncomment one method, and the other
-# partner should uncomment the other. Git will merge the two
-# sets of changes together.
+partner should uncomment the other. Git will merge the two
+sets of changes together.
 
 def robot_noise
   puts "beep boop"
